@@ -16,17 +16,11 @@
 		@import url( <?php bloginfo('stylesheet_url'); ?> );
 	</style>
       	<!--[if IE 8]>
-  <style type="text/css" media="screen">
-		@import url(http://www.ecfmg.org/news/wp-content/themes/ecfmgtheme/ecfmg.fix.ie8.tooltips.css);
-	</style>
 	<style type="text/css" media="screen">
 		@import url(http://www.ecfmg.org/news/wp-content/themes/ecfmgtheme/wordpress-fix-ie8.css);
 	</style>
 	<![endif]-->
 	<!--[if IE 7]>
-	<style type="text/css" media="screen">
-		@import url(http://www.ecfmg.org/news/wp-content/themes/ecfmgtheme/ecfmg.fix.ie7.tooltips.css);
-	</style>
 	<style type="text/css" media="screen">
 		@import url(http://www.ecfmg.org/news/wp-content/themes/ecfmgtheme/wordpress-fix-ie7.css);
 	</style>
